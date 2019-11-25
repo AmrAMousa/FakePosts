@@ -1,1 +1,2 @@
 
+<img src="https://user-images.githubusercontent.com/41305917/69571285-6aedc800-0fca-11ea-8bfe-4fb46001a09f.jpg" alt="splash screen" width="240px" height="480px">                                      <img src="https://user-images.githubusercontent.com/41305917/69571887-b0f75b80-0fcb-11ea-8788-5e7443258c30.jpg" alt="posts" width="240px" height="480px">                                      <img src="https://user-images.githubusercontent.com/41305917/69571988-dbe1af80-0fcb-11ea-9951-67a30cc4df9e.jpg" alt="comments" width="240px" height="480px">
